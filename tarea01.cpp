@@ -14,6 +14,8 @@ int main()
   }
 
   std::cout<<"Al efectuar la sumatoria con el rango [10,1000]\nEl resultado es:"<<SumaTotal<<"\n";
+
+  std::cout<<"prueba de funcionamiento de git"<<"\n"; 
   
   return 0;
 }
